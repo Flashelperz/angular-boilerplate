@@ -1,6 +1,8 @@
 {
   "name": "angular-boilerplate",
-  "version": "0.0.0",
+  "description": "Angular Boilerplate project",
+  "version": "1.0.0",
+  "author": "Flashelperz"
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
